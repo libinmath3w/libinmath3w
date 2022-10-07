@@ -15,12 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=libinmath3w" alt="libinmath3w" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/libinmathew009" target="blank"><img src="https://img.shields.io/twitter/follow/ajmalpk6?logo=twitter&style=for-the-badge" alt="libinmath3w" /></a> </p>
+<p align="left"> <a href="https://twitter.com/libinmathew009" target="blank"><img src="https://img.shields.io/twitter/follow/libinmath3w?logo=twitter&style=for-the-badge" alt="libinmath3w" /></a> </p>
 
 - 🌱 I’m currently working in a MNC
 
 <p align="left">
 <a href="https://twitter.com/libinmathew009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="libinmath3w" height="30" width="40" /></a>
+  
 <a href="https://www.linkedin.com/in/libinmath3w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="libin mathew" height="30" width="40" /></a>
 <a href="https://instagram.com/libin_mathew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="libinmath3w" height="30" width="40" /></a>
 </p>
