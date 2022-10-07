@@ -42,5 +42,3 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=libinmath3w&" alt="libinmath3w" /></p>
 
-# Coding Status
-![v](https://github-readme-stats.vercel.app/api/wakatime?username=libinmath3w&range=last_year&layout=compact&theme=radical)
